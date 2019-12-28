@@ -1,2 +1,0 @@
-# SodNotZodUpdate
-newfangled SodNotZod version
